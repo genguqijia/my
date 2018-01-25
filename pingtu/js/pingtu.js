@@ -3,7 +3,7 @@ var h=500
 var x=10
 var y=5
 imgs='img/b.jpg'
-
+alert('11')
 var one=document.getElementById('one')
 var two=[]
 for(var i=0;i<y;i++){
